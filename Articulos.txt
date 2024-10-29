@@ -1,0 +1,15 @@
+Bezrukov SM, Vodyanoy I. (1995) Noise-induced enhancement of
+signal transduction across voltage-dependent ion channels. Nature
+378:362-364.
+
+Borg-Graham LJ. (1999) Interpretations of data and mechanisms
+for hippocampal pyramidal cell models. Models of Cortical Circuits.
+Boston MA: Springer. p. 19-138.
+
+Traub RD, Jefferys JG, Miles R, Whittington MA, Tóth K. (1994)
+A branching dendritic model of a rodent CA3 pyramidal neuron.
+J Physiol 481:79-95.
+
+Poirazi P, Brannon T, Mel BW. (2003) Arithmetic of subthreshold
+synaptic summation in a model CA1 pyramidal cell. Neuron
+37:977-987.

@@ -1,0 +1,25 @@
+Pasos para hacer analsis 
+1. obtener amplitudes 
+	Amplitud
+	ampitud potenciales somatosensoriales tesis word 
+2. obtener filtrado y pendientes
+	Pendientes2
+3. modelo de decaimiento exponencial
+	DecaimientoS
+	modelo_pendientes_tesis
+4.ajuste polinomial a datos experimentales 
+	velocidad
+5.variabilidad neuronal 
+	FactorFano
+
+II para regsitros MUA
+1. cada archivo contiene 61 sweeps = 60 + 1, separamos cada segundo 
+	NEUROch
+	abfload
+2. Separamos neuronas con waveclus modificado 
+	wave_clus 
+       este archivo esta en experimento rata> analisis de spikes
+3.procedemos a separar neuronas dependiendo de su descarga, para ajustar al incremento de descarga, archivos a analizar: times 
+	After_Wave_clus_III.m sirve para hacer separacion de neuronas
+        After_Wave_clus_IV.m  Sirve para graficar los  rasters 
+      estos archivos estan en la carpeta de programas 
